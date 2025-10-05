@@ -8,13 +8,10 @@ All programs are written in Python. Ensure that you have at least Python 3.11 wi
 - numpy, for numerical calculations.
 - matplotlib, for plotting.
 
-Additionally, the SciencePlots package is utilized as the matplotlib scientific plotting styles. A latex compiler is necessary to implement this plotting style package. For a Debian/Ubuntu-based system, we recommend using texlive:
+Additionally, the SciencePlots package is utilized as the matplotlib scientific plotting styles. For a more detailed installation guide, please refer to: [github.com/garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots). A latex compiler is necessary to implement this plotting style package. For a Debian/Ubuntu-based system, we recommend using texlive:
 ```
 sudo apt install texlive
 ```
-
-As for a more detailed installation guide, please refer to: [github.com/garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots).
-
 Once all prerequisite packages have been installed, clone this repository with the command:
 ```
 git clone https://github.com/NabailAzhiim/YonedaRRE.git
